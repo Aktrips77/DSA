@@ -10,7 +10,7 @@ class Solution {
             s[l]=s[r];
             s[r]=temp;
 
-            l++ ;
+            l++;
             r--;
         }
     }
